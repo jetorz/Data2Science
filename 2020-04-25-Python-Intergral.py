@@ -1,4 +1,4 @@
-from sympy import Symbol, integrate, oo
+from sympy import Symbol, integrate, oo, simplify
 import math
 t = Symbol('t')
 
