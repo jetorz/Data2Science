@@ -40,7 +40,7 @@ I am good at data mining, statistics, machine learning, and relevant software/pr
   - scipy
   - numpy
   - pandas
-  - scikit learn
+  - scikit-learn
   - matplotlib
 - SPSS
 - SQL
