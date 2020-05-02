@@ -1,6 +1,8 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 import sklearn.datasets as datasets
+import sklearn.tree
+import matplotlib.pyplot as plt
 
 X, y = datasets.load_breast_cancer(return_X_y=True)
 X_train, X_test, y_train, y_test = train_test_split(X, y)
