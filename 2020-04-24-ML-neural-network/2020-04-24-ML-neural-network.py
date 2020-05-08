@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.neural_network import MLPClassifier
 from sklearn.model_selection import train_test_split
 
-data = np.loadtxt('assets\ex3data.txt', delimiter=' ')
+data = np.loadtxt('ex3data.txt', delimiter=' ')
 X = data[:, 0:400]; y = data[:, -1]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y)

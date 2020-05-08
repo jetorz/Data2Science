@@ -1,6 +1,4 @@
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
-import sklearn.datasets as datasets
+from scipy import stats
 import matplotlib.pyplot as plt
 
 X, y = datasets.load_breast_cancer(return_X_y=True)
