@@ -1,0 +1,252 @@
+﻿"Development Director
+ALS Therapy Development Institute has an immediate opening for Development Directors. Reporting directly to the Senior Development Director, the Development Director at ALS TDI is a senior fundraising position working to identifying potential prospects and cultivating solicitation strategies and in closing asks with donors including individuals and corporations by building networks via events, generating awareness of ALS TDI; outreach including attending and speaking at events as well as personally cultivates relationships with patients, prospects and donors. This position will be responsible for generating and managing a portfolio of at least two million to five million dollars per year. This position will be located in Atlanta, GA.
+
+Requirements:
+Bachelor's Degree requiredMinimum 6-8 years' experience in fundraising and business developmentSuccessful track recording in fundraising with major donors or scientific sales preferredDemonstrated ability to work independently and make progress on several prospects/projects at the same time.Excellent English oral, written and presentation skillsStrong leadership and management skills, as well as the ability to forge strong interpersonal relationshipsAbility to travelExcellent computer skills including use of word processing, spreadsheet, database, presentation and prospect management software operating off a PC-based system including Salesforce.
+About ALS Therapy Development Institute (ALS.net)
+
+The ALS Therapy Development Institute (ALS.net) and its scientists actively discover and develop treatments for ALS. ALS.net is the world's first and largest nonprofit biotech focused 100% on ALS research. Led by ALS patients and their families, the charity understands the urgent need to slow and stop this horrible disease. ALS.net, based in Cambridge, MA, has served as one of the leaders in sharing data and information with academic and ALS research organizations, patients and their families. For more information, visit www.als.net.
+
+To Apply
+Please apply at https://als.applicantpro.com. Please include a cover letter, salary requirements and resume. No phone calls please.
+ALS TDI is an equal opportunity employer."
+1,1,"Job Description
+
+""The road that leads to accomplishment is narrow."" -Desmond
+Ostentatious is a strong adjective that fits the description of an individual that inhibits the natural and innate spirit of vivaciousness, vigor and the eager characteristics that comprise the disposition of one who's willing to learn; to take on the attitude of ""the eternal student"".
+With that said, Atlanta, Georgia-based scientific R&amp;D outfit, Hexagon Lavish®, has an open position for an excitable principal research assistant that will be mentored and guided by our Chief Science Officer.
+This position includes computational and statistical analysis of sequencing studies, technical and logistical collaboration with international consortia. As well, the Excitable Principal Research Assistant will be responsible for setting the schedule for entry-level scientists whom will also be guided by our Chief Scientist. The Excitable Principal Research Assistant will also be in charge of delegating reports and responsibilities to the Project Leads on behalf of the Chief Science Officer and the Chief Technology Officer.
+The Excitable Principal Research Assistant will engage entry-level scientists and researchers, setting-up work schedules for entry-level scientists and researchers and also be heavily-involved in workshops and internal team seminars as well as perform clerical and/or administrative duties such as reports that are directly to be addressed to the Chief Science Officer.
+*** A solid background in constructive optics algorithms combined with expansive computer vision and image inferential is the most preferable candidacy. *** Qualifications
+
+Integrating data across formats and sources by robust synchronization with existing datasets and databases
+
+Under general direction, developing innovative analytical methods to enable collaborators to interpret and design follow-up research
+
+Providing support to internal team members across all interdisciplinary backgrounds
+
+Lead and contribute to manuscript preparation as well as internal and external project-team reports
+
+Actively participating in project team and group meetings
+Additional Information
+
+Essential Job Functions
+Ph.D. in Computer Science, Mathematics, Statistics, Chemistry, or other quantitative discipline required
+
+5+ years experience, with varying datasets and experience with Computational Biology/Statistics/Physics, Mathematics, Computer Science, Algorithms/Incorporate Learning, etc.
+
+Relevant experience or formal training in laboratorial and/or clinical research
+
+Must have demonstrable proficiency with several standard computational languages and also some form of ""esoteric programming""
+
+Familiarity with image inferential analysis tools
+
+Familiarity with a range of optics algorithm tools
+
+Thorough understanding of statistics preferred
+
+Application of modeling and software expertise for analysis of complex R&amp;D efforts
+
+Conduct feasibility studies to provide technical assessment of proposed research
+
+Preparation of briefing materials, research announcements, and technical reports
+
+Technical monitoring of R&amp;D efforts for adherence to statement of work (SOW) tasks, program milestones, and deliverables
+
+Participation in program reviews/site visits/field tests and coordination of scientific workshops as required
+
+Summarize and communicate the intellectual content of scientific and technological information to both scientific and non-scientific audiences
+
+Interact with stakeholders from multiple disciplines including engineering, biology, neuroscience, clinical, regulatory and policy teams
+
+Demonstrable mastery of high-performance computing of the low-level, high-performance development skills needed to perform research on distributed, highly scalable architectures conducive to the evolving nature of PIR
+
+Other Essential Job Functions
+Sound decision-maker
+
+Establish effectiveness as a mentor
+
+Be contributory to the scientific endeavors of the company
+
+Other Skills/Abilities
+Excellent communication skills, both verbally and in written form
+
+Fluent in English
+
+Strong interpersonal skills
+
+Must demonstrate a high degree of integrity, trustworthiness, respect for others and the ability to deal appropriately with confidential and sensitive information
+
+ Must demonstrate an understanding and acceptance of Hexagon Lavish®’s mission, vision and values
+
+Hexagon Lavish® is an equal opportunity employer"
+2,2,"Growing company located in the Atlanta, GA area is currently looking to add a Data Scientist to their team. The Data Scientist will analyze business level data to produce actionable insights utilizing analytics tools and languages, etc. R, Python and/or C++: The Data Scientist will serve as the organization’s leader, helping to grow their data science initiative from a green state. The Data Scientist will also be responsible for advancement of analytical projects from inception to delivery and beyond.
+RESPONSIBLITIES;
+ 1. Leverage Big Data to discover patterns and solve strategic and tactical business problems using massive structured and unstructured data sets across multiple environments
+ 2. Develop analytical capabilities (modeling and processes) that drive better outcomes for both customers and the company
+ 3. Drive the collection, cleansing, processing and analysis of new and existing data sources.
+ 4. Research industry topics impacting opportunities relevant for data analysis projects
+ 5. Execute complex analyses to aid in reporting and interpretation of analytical findings to build a comprehensive solution.
+ 6. Demonstrates good judgment and analytical skills to conduct option analysis and present recommendations
+ 7. Support and resolve issues related to analyses or deliverable in production
+ 8. Works with internal and external clients to understand, clarify, and analyze requirements to understand the business, and potential, impactful solutions
+ 9. Mapping of processes to understand opportunities for advanced analytics and product enhancement
+
+
+Requirements:
+5. 1. BA/BS Degree in Business Analysis, Computer Science, Economics, Data Science. Masters degree preferred
+ 2. 5+ years of Predictive Analytics, Statistical Modeling, Machine Learning a plus
+ 3. Expect level understanding of analytics tools and language (R, Python, or C++ etc.)
+ 4. Experienced in Business Analysis, requirement definition
+ 5. Proven and recent experience working with Sales, Marketing, Supply Chain, and/or Manufacturing Data
+ 6. Able to navigate and access structured and unstructured data environments (i.e. Hadoop, Oracle, SQL etc)
+ 7. Experience utilizing internal and external data sources to identify otherwise hidden industry trends to impact product development
+ 8. Exposure to visualization tools, Tableau/QlikSense
+ 9. Must be solution-oriented and focused on innovation.
+ 10. Familiar with scripting language: e.g. Perl, Python or a programming language: e.g. Java
+ 
+
+To express interest in this position, please Email Resume in MS-Word or .pdf format and attach cover letter with Salary requirements and contact information. Please be sure to reference Job #2093.
+ NO SPONSORSHIP AVAILABLE!
+
+
+Location: Atlanta, GA
+
+Type: Permanent
+
+Salary: $$,$$$ / DOE"
+3,3,"DEPARTMENT: Program OperationsPOSITION LOCATIONS: Atlanta, GA.ACCOUNTABILITY:  President of Program OperationsFor 25 years Operation HOPE has been dedicated to empowering underserved communities through financial literacy, now our work encompasses more than financial education. Our work is about instilling knowledge and confidence in those we serve so they can experience, sometimes for the first time in their lives, financial dignity.JOB SUMMARYThe data analyst collects, organizes, mines, analyzes, and audits large sets of data for impact reporting and operational optimization. The Data Analyst participates as a team member responsible for maintaining the integrity of client database information and provides executable and actionable recommendations for data migration best practices and field operations based on analytical findings.DUTIES AND RESPONSIBILITIESInitiate and participate in data mining and reportingAudit and profile the data to assess the impact of poor quality data on the organization’s performance and impacts.Conduct A/B testing based on different hypotheses that directly and indirectly impact operational key performance indicators.Create and support data visualization through operational and executive dashboards.Import/Collect, clean, convert and analyze data for the purpose of find insights and making conclusions.Design and develop relational databases for collecting data.Monitor the performance of data systems and if there are any issues then respond to the same.Keep a track of trends, patterns and correlation in case of complex data sets.Prepare concise data reports and data visualizations for the management that will help in decision-making process.Assist the data scientist in development of new analytical tools and methods as and when required.REQUIRED SKILLS AND EDUCATIONBachelor’s DegreeTwo or more years as a data analyst in related fieldAble to understand various data structures and common methods in data transformationExperience in basic statistical modeling and reportingExperience in SQL, relational databases, database concepts, dimensional modeling and database designProficient in one or more programming languages: R, Python, STATA, SASExperience with Caseworthy, SQL and TableauEEOSTATEMENTOperation HOPE is an Equal Opportunity Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information or any other characteristic protected by law.Job Type: Full-timeSalary: $50,000.00 to $60,000.00 /yearExperience:data analyst in related field: 2 yearsbasic statistical modeling and reporting: 2 yearsProgramming languages: R, Python, STATA, SAS: 2 yearsSQL, relational databases, database concepts/design: 2 yearsCaseworthy, SQL and Tableau: 1 yearEducation:Bachelor'sLocation:Atlanta, GA"
+4,4,"DESCRIPTION
+The Emory University Department of Biomedical Informatics is recruiting for tenure track faculty positions in the area of biomedical informatics and data science with the possibility of joint appointments in other departments including the Department of Radiology &amp; Imaging Sciences and the Georgia Institute of Technology/Emory Wallace H. Coulter Department of Biomedical Engineering. The Department of Biomedical Informatics is a highly dynamic and multidisciplinary environment that has strengths in clinical informatics, imaging informatics, bioinformatics, machine learning, signal processing and mHealth. The clinical informatics group fosters collaborative projects between software systems researchers and scientific research groups, and between clinical informatics researchers, clinicians and healthcare. The Emory Department of Biomedical Informatics is closely aligned with the Emory University Department of Math and Computer Science, with Emory Healthcare Information Services, Emory University Research Informatics and Georgia Institute of Technology/Emory Wallace H. Coulter Department of Biomedical Engineering. Many members of our faculty hold joint appointments.
+
+The successful candidate will provide leadership in planning and implementing future information systems that support clinical research as well as develop a multi-disciplinary research program in areas related to the strengths and interests of the School of Medicine. They will enable comparative analyses and integration of enormous data sets across multiple studies and sources. The candidate will also interface with technology infrastructure efforts supporting biomedical research in the Atlanta Clinical and Translational Science Institute's Biomedical Informatics Program (http://www.atlantactsi.org/areas/bip/) and other BD2K related initiatives. These technologies are expected to create an outstanding foundation for biomedical informatics research both locally and nationally. The candidate will publish in peer-reviewed conferences and journals, participate in and lead clinical informatics-related proposals, and engage in relevant service and committees.
+
+ADDITIONAL DETAILS
+Candidates to submit cover letter detailing your plans for future research, your CV, a list of no more than 10 of your most relevant publications and contact details for between three and five references.
+Applicants must have an MD or PhD in Computer Science, Biomedical Informatics or a related field and three years of research and development experience in clinical and/or translational research informatics. There must be a proven publication record in leading peer-reviewed journals/conferences and demonstrated potential to obtain extramural funding. The successful candidate should have experience in several of the following: bioinformatics software development, data warehousing and data mining, massive scale database searches, cloud computing, machine learning, signal &amp; image processing, statistical inference, and natural language processing. Research and/or development experience in imaging informatics, mHealth informatics, ontology management and knowledge integration; design of tools intended to support the discovery, analysis and integration of high-throughput biomedical data sets; and tools and techniques for extraction and codification of information contained in biological and clinical unstructured text is desirable. Familiarity with HIPAA regulation and privacy projection requirements is necessary. A demonstrated ability to teach data science, biomedical informatics and computer science courses is important.-65750BR"
+5,5,"Qualifications
+Bachelor’s degree in Computer Science, Information Systems or closely related field
+10+ years of experience in Data Architecture in a professional services environment is highly preferred
+Experience overseeing the data stream of multiple projects including client deployments, integration and migration efforts
+Expertise in handling large amounts of data through such capabilities as SQL Server, Postgres, Exasol, Alteryx and Hadoop ecosystem
+Experience working in cloud architecture including AWS or Azure environments
+Exceptional analytical and quantitative problem solving skills
+Adept at communicating and managing key stakeholders and able to drive change in the organization
+Ability to work collaboratively in a team environment and provide continuous mentoring to junior members of the organization
+Entrepreneurial spirit with desire to work in fast-paced, start-up environment, with the ability to consistently deliver exceptional results on demanding timelines
+Travel requirements - 50%-60%
+Who You'll Work With
+You'll be based in New Jersey, Atlanta, Waltham or Chicago and will be a part of the Periscope team. Periscope is part of McKinsey Solutions and of McKinsey’s New Ventures.
+
+Founded in 2007, Periscope™ by McKinsey enables better commercial decisions by uncovering actionable insights. The Periscope platform combines world leading intellectual property, prescriptive analytics, and cloud based tools to provide more than 25 solutions focused on insights and marketing, with expert support and training. It is a unique combination that drives revenue growth both now and in the future. Customer experience, performance, pricing, category, and sales optimization are powered by the Periscope platform. Periscope has a presence in 26 locations across 16 countries with a team of 350+ IT and business professionals and a network of 300+ experts. To learn more about how Periscope’s solutions and experts are helping businesses continually drive better performance, visit http://www.periscope-solutions.com/.
+
+McKinsey New Ventures fosters innovation driven by analytics, design thinking, mobile and social by developing new products/services and integrating them into our client work. It is helping to shift our model toward asset-based consulting and is a foundation for –and expands our investment in –our entrepreneurial culture. Through innovative software as a service solutions, strategic acquisitions, and a vibrant ecosystem of alliances, we are redefining what it means to work with McKinsey.
+
+As one of the fastest-growing parts of our firm, New Ventures has more than 1,500 dedicated professionals (including more than 800 analysts and data scientists) and we’re hiring more mathematicians, data scientists, designers, software engineers, product managers, client development managers and general managers.
+What You'll Do
+You’ll work closely with Marketing &amp; Sales Ventures client service team and will play a key role in data architecture and delivery.
+
+You'll lead a team of Data Engineers to determine database structural requirements by analyzing client operations, applications, and programming; reviewing objectives with clients and evaluating current systems. You’ll develop database solutions by designing proposed system; defining database physical structure and functional capabilities, security, back-up, and recovery specifications. You will install database systems by developing flowcharts; applying optimum access techniques; coordinating installation and documents actions.
+
+Additionally, you’ll maintain database performance by identifying and resolving production and application development problems; calculating optimum values for parameters; evaluating, integrating, and installing new releases; completing maintenance and answering questions. You will provide database support by coding utilities, responding to user questions, and resolving problems."
+6,6,"Qualifications
+Bachelor’s degree
+5-7 years of experience in hands-on software design and deployment in either a professional services or in-house systems administration role
+Demonstrated impact in a product management and/ or solutions architecture role for a minimum of 2 years
+Familiar with cloud-based architecture, including data management and integration architecture
+Creative thinker with ability to work with and translate between technical and business team members, while adhering to user-centered design principles
+Passion for commercial excellence, including sales growth and pricing optimization
+Strong organizational, process and project management skills
+Excellent problem-solving skills
+Proactive self-starter, with a very strong ownership mindset
+Excellent communication skills, with an eye for detail
+Able to adapt quickly and work in dynamic environment
+Ability to flex working hours to support global team
+Entrepreneurial spirit with desire to work in fast-paced, start-up environment, with the ability to consistently deliver exceptional results on demanding timelines
+Willingness to travel up to 50% of the time
+Who You'll Work With
+You’ll be part of the Periscope team and will be based in New Jersey or Atlanta. You will work with product &amp; technology and client service teams in developing and delivering digital solutions that enable McKinsey clients globally to achieve commercial excellence. Periscope is part of McKinsey’s New Ventures.
+
+Founded in 2007, Periscope™ by McKinsey enables better commercial decisions by uncovering actionable insights. The Periscope platform combines world leading intellectual property, prescriptive analytics, and cloud based tools to provide more than 25 solutions focused on commercial excellence, including sales, pricing, customer insights and marketing. Periscope experts work closely with clients to embed these solutions into operational IT environments, and work closely with McKinsey’s Marketing &amp; Sales consultants to transform client business processes to deliver revenue growth both now and in the future. Periscope has a presence in 26 locations across 16 countries with a team of 350+ IT and business professionals and a network of 300+ experts. To learn more about how Periscope’s solutions and experts are helping businesses continually drive better performance, visit http://www.periscope-solutions.com/.
+
+McKinsey New Ventures fosters innovation driven by analytics, design thinking, mobile and social by developing new products/services and integrating them into our client work. It is helping to shift our model toward asset-based consulting and is a foundation for –and expands our investment in –our entrepreneurial culture. Through innovative software as a service solutions, strategic acquisitions, and a vibrant ecosystem of alliances, we are redefining what it means to work with McKinsey.
+
+As one of the fastest-growing parts of our firm, New Ventures has more than 1,500 dedicated professionals (including more than 800 analysts and data scientists) and we’re hiring more mathematicians, data scientists, designers, software engineers, product managers, client development managers and general managers.
+What You'll Do
+You'll develop and deliver new innovative digital solutions for our clients, working closely with our solution leaders, technology leaders, product developers, data scientists, and client service teams.
+
+Working with our product teams and clients, you will play a key role in shaping the overall product roadmap of Periscope and in designing and launching standardized support processes for solutions.
+
+You will specifically focus on B2B applications, including sales and pricing applications. You will convert best practice analytic insights into operational systems, by leading new functionality in the Periscope platform, configuring industry-leading platforms (e.g., Salesforce, Microsoft Dynamics, Anaplan), and by creating innovative business intelligence workspaces (e.g., Tableau, Alteryx).
+
+You will interact with clients and client service teams to deploy these solutions at clients, while maintaining a broad view of backlog and roadmap. You will work closely with internal and external stakeholders to capture feedback on how our tools are used and potential improvements to products and our support processes."
+7,7,"Overview / Responsibilities
+Wood Environment &amp; Infrastructure Solutions has an immediate need for a Junior to Mid-level Engineer, Geologist or Environmental Scientist. The position will support the Remediation Project Managers. The candidate should be eager to learn and be able to follow specific instructions to execute field tasks safely, accurately and timely.
+
+Key Responsibilities
+The successful candidate will work on a variety of site investigation / remediation / demolition projects at industrial / commercial sites and / or government installations and conduct site assessment for real estate transactions. Duties will include performing routine, well-defined field and office assignments (technical and non-technical) including planning, conducting, and reporting on field investigations and remediation. Work may be conducted under a variety of regulatory programs (CERCLA, RCRA, UST, Brownfields) primarily in southeastern US. Will receive detailed instructions on work objectives, complex features and possible solutions and will receive close supervision and review of work. With experience, may be assigned tasks with minimal supervision. Specific work tasks are expected to include:
+Field exploration, inspection, data collection analysis, and interpretation
+Prepare maps, charts, boring logs, cross-sections depicting subsurface conditions
+Run simple computer programs
+Perform field testing using equipment and instrumentation
+Prepare field reports, internal correspondence, sections of final reports
+Oversee subcontractors and / or other company employees in the field
+Prepare health and safety plans / job hazard analyses and follow company / site safety standards
+Contact vendors; research literature and regulatory requirements
+Conduct scientific calculations
+Skills / Qualifications
+Required
+B.S. in Engineering, Geology, and / or applicable science
+Excellent written and verbal communication skills
+Ability to work independently and as part of a team
+Strong commitment to safety
+Basic familiarity with MS Office computer software
+Ability to conduct basic geological field procedures and techniques
+Ability to handle multiple assignments and maintain flexibility while meeting strict deadlines
+Valid Georgia driver's license
+A physical exam is required to obtain medical clearance to work on hazardous waste sites
+Flexibility to travel and work outside normal business hours as required
+Preferred
+OSHA 40-hr HAZWOPER Training
+Experience conducting Phase I / II environmental site assessments in accordance with ASTM standards
+Experience and understanding of various remediation techniques
+Physical Demands
+Physically fit and able to travel to work in the field in potentially difficult terrain and under a variety of weather conditions (cold, heat, wind, rain) as required to accomplish project execution. Able to occasionally lift over 50 pounds and able to wear respirator, if required, to mitigate dust or fumes
+Company Overview
+Wood is a global leader in the delivery of project, engineering and technical services to energy and industrial markets. We operate in more than 60 countries, employing around 55,000 people, with revenues of around $10 billion. We provide performance driven solutions throughout the asset life cycle, from concept to decommissioning across a broad range of industrial markets including the upstream, midstream and downstream oil &amp; gas, power &amp; process, environment and infrastructure, clean energy, mining, nuclear and general industrial sectors. We strive to be the best technical services company to work with, work for and invest in.
+www.woodplc.com
+Diversity Statement
+We are an equal opportunity employer that recognises the value of a diverse workforce. All suitably qualified applicants will receive consideration for employment on the basis of objective criteria and without regard to the following (which is a non-exhaustive list): race, colour, age, religion, gender, national origin, disability, sexual orientation, gender identity, protected veteran status, or other characteristics in accordance with the relevant governing laws."
+8,8,"Works closely with senior CIB professionals. Performs assigned duties, including but not limited to, due diligence, document processing, financial modeling, statistical analysis, research, and presentation development. Follows all risk related practices and policies.
+Support senior credit research analyst conducting bottom-up, fundamental credit analysis of both high yield and investment grade corporations, including building financial models.
+Develop commentary and analyses to provide investing/trading strategies to institutional fixed-income investors.
+Work with sales professionals and bond traders to assist in managing day-to-day trading and monitoring news flow.
+Speak with management teams, rating agencies and other industry sources to develop investment/trading strategies.
+
+Qualifications
+Minimum Requirements:
+ BA/BS degree
+ Proven analytical ability and attention to detail
+ Solid leadership and interpersonal skills
+ Proven ability to work well in a fast-paced, team-oriented environment
+ Strong written and oral communication skills
+ Some related work experience since graduation from an undergraduate program
+Preferred Requirements:
+ 1 year of related work experience since graduation from an undergraduate program
+Equal Opportunity Employer: SunTrust supports a diverse workforce and is a Drug Testing and Equal Opportunity Employer. SunTrust does not discriminate against individuals on the basis of race, creed, color, gender, religion, national originTo review the EEO Poster, copy and paste the following link into your browser: http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf"
+9,9,"Known for being a great place to work and build a career, KPMG provides audit, tax and advisory services for organizations in today’s most important industries. Our growth is driven by delivering real results for our clients. It’s also enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence and supports our communities. With qualities like those, it’s no wonder we’re consistently ranked among the best companies to work for by Fortune Magazine, Consulting Magazine, Working Mother Magazine, Diversity Inc. and others. If you’re as passionate about your future as we are, join our team.
+KPMG is currently seeking a Senior Associate - Cognitive Data Scientist Natural Language Processing, to join our National Organization.
+Responsibilities:
+Define, develop and prototype cognitive solutions for KPMGs business needs, such as Natural Language Processing (NLP), Linguistics, Advanced Semantic Design, Information Extraction, Information Retrieval, Probabilistic Decision Making, image recognition, deep learning, Machine Learning, cognitive science and analytics
+Serve as a developer and Subject Matter Expert (SME) in one or several of the above mentioned domains and help establish a competency in those cognitive areas for KPMG
+Work closely with various KPMG functional teams to incorporate cognitive and advanced analytics models and algorithms into KPMGs solutions and offerings to its clients
+AI Scientist will serve as Thought Leader in their cognitive area of expertise, developing internal and external eminence and intellectual property, as well as support client facing activities and influencing customer facing groups including senior executives, sales, as well as marketing and product development to successfully define, develop and launch new cognitive products
+Model and algorithm development and optimization, working with software engineers to implement and productize the models and algorithms, engage in project specific activities as part of product development, as well as perform cognitive R&amp;D work, develop tools and assets to support advanced cognitive development tasks
+Support business development efforts including guiding clients through the transformation process into a cognitive automation operating model
+Qualifications:
+Minimum of five years experience of professional post academic work preferably with a Ph.D. or MS in Computer Science, Applied Statistics, Engineering, Mathematics, Physics or other quantitative discipline with specialization
+Experience in Artificial Intelligence, Machine Learning, Natural Language Processing, Cognitive Science or other related areas
+Strong mathematical background with strong knowledge in at least one of the following fields: Cognitive Science, Advanced Semantic Design, Information Extraction, Information Retrieval, Probabilistic Decision Making, image recognition, deep learning
+Experience leading project teams and people as well as executing independently
+Excellent verbal and written communication skills with the ability to work with diverse teams in a highly matrixed environment
+KPMG LLP (the U.S. member firm of KPMG International) offers a comprehensive compensation and benefits package. KPMG is an equal opportunity employer. All qualified applicants are considered for employment without regard to race, color, creed, religion, age, sex/gender, national origin, ancestry, citizenship status, marital status, sexual orientation, gender identity or expression, disability, physical or mental handicap unrelated to ability, pregnancy, veteran status, unfavorable discharge from military service, genetic information, personal appearance, family responsibility, matriculation or political affiliation, or other legally protected status. KPMG maintains a drug-free workplace. KPMG will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state or federal law (including San Francisco Ordinance number 131192). No phone calls or agencies please."
